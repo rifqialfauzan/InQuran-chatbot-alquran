@@ -1,0 +1,11 @@
+Halo user, Aku inQuran.
+Aku adalah bot informasi Al-Qur'an. Aku bisa membantu kamu mencari ayat Al-Qur'an tertentu beserta terjemahannya, tafsir dari ayat tertentu dan juga informasi seputar surat-surat yang ada dalam Al-Qur'an(jumlah ayat, golongan surat, arti nama surat).
+
+Yang perlu kamu lakukan hanyalah memberikan aku pesan, seperti:
+- surat al fatihah ayat 2 beserta terjemahannya 
+- tolong carikan tafsir dari surat annas ayat 3 
+
+Berikut command list yang dapat kamu gunakan:
+
+/listsurah  - Menampilkan 114 nama surat dalam Al-Qur'an 
+/help       - Menampilkan bantuan
