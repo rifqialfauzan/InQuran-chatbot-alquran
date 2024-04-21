@@ -11,7 +11,7 @@ from dataLoad import list_surah, greeting_msg
 import os
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="chatbot\config.env")
+load_dotenv(dotenv_path="../config.env")
 
 token = os.getenv("TELEGRAM_BOT_TOKEN")
 
